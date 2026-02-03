@@ -24,10 +24,9 @@ A beautiful, feature-rich Todo List application built with vanilla JavaScript, H
 
 ## 📁 Project Structure
 
-js-todo-app/
-├── index.html # Main HTML file
-├── styles.css # CSS styles
-├── app.js # JavaScript functionality
-├── README.md # This documentation
-├── LICENSE # MIT License
-└── .gitignore # Git ignore rules
+- `index.html` - Main HTML file
+- `styles.css` - CSS styles  
+- `app.js` - JavaScript functionality
+- `README.md` - This documentation
+- `LICENSE` - MIT License
+- `.gitignore` - Git ignore rules
