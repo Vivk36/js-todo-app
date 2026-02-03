@@ -1,8 +1,9 @@
 # Todo List Web Application
 
 A beautiful, feature-rich Todo List application built with vanilla JavaScript, HTML, and CSS.
-
-![Todo App Screenshot](https://via.placeholder.com/800x450.png?text=Todo+App+Screenshot)
+suhbvljseblriuvhbsleiurhvlseuhvlosurebvluesh
+![Todo App
+Screenshot](https://via.placeholder.com/800x450.png?text=Todo+App+Screenshot)
 
 ## ✨ Features
 
