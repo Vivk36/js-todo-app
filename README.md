@@ -23,6 +23,7 @@ A beautiful, feature-rich Todo List application built with vanilla JavaScript, H
 [Click here to try the live demo](#) <!-- Add your GitHub Pages link here -->
 
 ## 📁 Project Structure
+
 js-todo-app/
 ├── index.html # Main HTML file
 ├── styles.css # CSS styles
