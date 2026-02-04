@@ -286,3 +286,6 @@ window.deleteTask = deleteTask;
 
 // Initialize app when DOM is loaded
 document.addEventListener('DOMContentLoaded', init);
+
+
+//Adding the comment here
